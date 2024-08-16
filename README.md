@@ -17,7 +17,7 @@ This project is a full-stack web application for selling online courses. Built u
 1. **Navigate to the Project Directory**
 
     ```bash
-    cd your-repo-name
+    cd CourseConnect
     ```
 
 2. **Install Dependencies**
